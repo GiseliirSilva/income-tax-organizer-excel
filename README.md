@@ -82,4 +82,7 @@ O projeto gera um Resumo Fiscal anual, permitindo visualizar de forma clara:
 ---
 
 ## 📌 Observação
-Projeto desenvolvido com finalidade educacional, aplicando conceitos de Excel voltados à área administrativa e de análise de dados.
+Projeto desenvolvido com finalidade educacional, aplicando conceitos de Excel voltados à área administrativa e de análise de dados.  
+
+Curso realizado na **DIO (Digital Innovation One)**, sob orientação do instrutor **Felipe Aguiar**.
+

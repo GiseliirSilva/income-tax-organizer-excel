@@ -68,10 +68,10 @@ O projeto gera um Resumo Fiscal anual, permitindo visualizar de forma clara:
 ## 📷 Visão Geral do Projeto
 
 ### 🧾 Lançamentos
-![Lançamentos](images/resumo_fiscal.png)
+![Lançamentos](Imagens/Resumo_Fiscal.png)
 
 ### 📊 Resumo Fiscal
-![Resumo Fiscal](images/grafico_ir.png)
+![Resumo Fiscal](Imagens/Lançamentos.png)
 
 ---
 

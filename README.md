@@ -86,13 +86,13 @@ O projeto estrutura rendimentos, aplica automaticamente as faixas de tributaçã
 
 ---
 
+## 📌 Observação
+
+Projeto com finalidade prática, aplicando conceitos de Excel voltados à organização financeira e análise de dados.
+
+---
+
 ## 👩‍💻 Autora
 
 **Giseli Silva**
 Área Administrativa | Dados | Excel
-
----
-
-## 📌 Observação
-
-Projeto com finalidade prática, aplicando conceitos de Excel voltados à organização financeira e análise de dados.

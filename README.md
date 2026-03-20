@@ -1,88 +1,98 @@
-# 📊 Projeto IRPF em Excel — Análise e Resumo Fiscal
+# 💰 Análise de IRPF em Excel — Resumo Fiscal
 
-## 📌 Descrição
-Este projeto foi desenvolvido em Excel com o objetivo de simular o cálculo do Imposto de Renda Pessoa Física (IRPF), organizando rendimentos, aplicando corretamente as faixas de tributação e apresentando um resumo fiscal claro e visual.
+## 📌 Sobre o projeto
 
-Além dos conteúdos abordados no curso da DIO, foram aplicadas funções estudadas de forma autônoma, como **PROCX**, para automatizar o enquadramento das alíquotas conforme a tabela oficial do IR.
+Desenvolvimento de uma solução em Excel para organização, cálculo e análise do Imposto de Renda Pessoa Física (IRPF).
 
----
-
-## 🎯 Objetivos do Projeto
-- Organizar rendimentos mensais de forma estruturada  
-- Aplicar automaticamente as faixas de tributação do IRPF  
-- Calcular imposto devido, deduções e alíquota efetiva  
-- Consolidar os dados em um Resumo Fiscal anual  
-- Facilitar a análise por meio de gráfico dinâmico  
+O projeto estrutura rendimentos, aplica automaticamente as faixas de tributação e gera um resumo fiscal anual, permitindo uma visualização clara do impacto dos impostos sobre a renda.
 
 ---
 
-## 🧠 Funcionalidades
-- ✔ Tabelas estruturadas para Entradas e Saídas  
-- ✔ Enquadramento automático de alíquota com **PROCX**  
-- ✔ Consolidação mensal e anual utilizando **SOMASES**  
-- ✔ Cálculo de:
-  - Total de rendimentos  
-  - Total de IR pago  
-  - Rendimento líquido  
-  - Alíquota efetiva  
-- ✔ Gráfico combinado (Colunas + Linha) para análise visual  
-- ✔ Filtro de mês para análise dinâmica (sem alterar totais anuais)
+## 🎯 Objetivo
+
+* Organizar dados financeiros de forma estruturada
+* Automatizar o cálculo do IRPF
+* Aplicar corretamente as faixas de tributação
+* Consolidar informações em um resumo anual
+* Facilitar a análise por meio de visualizações
 
 ---
 
-## 🛠️ Funções e Recursos Utilizados
-- PROCX (XLOOKUP)  
-- SOMASES  
-- Tabelas estruturadas do Excel  
-- Gráfico combinado (Coluna + Linha)  
-- Formatação condicional e organização de layout  
+## 🧠 Principais funcionalidades
+
+* Estruturação de dados em entradas e saídas
+* Enquadramento automático de alíquota com **PROCX (XLOOKUP)**
+* Consolidação mensal e anual com **SOMASES**
+* Cálculo de indicadores financeiros:
+
+  * Rendimentos totais
+  * Imposto pago
+  * Rendimento líquido
+  * Alíquota efetiva
+* Visualização com gráfico combinado (colunas + linha)
+* Filtro dinâmico por período
 
 ---
 
-## 🗂️ Estrutura da Planilha
-- **Titular** → Dados cadastrais  
-- **Informes** → Informações complementares  
-- **Lançamentos** → Base de dados (entradas e saídas)  
-- **Tabela_IR** → Faixas de tributação e alíquotas  
-- **Resumo_Fiscal** → Consolidação dos resultados e gráfico  
-- **Lista** → Apoio para validações e listas suspensas  
+## 🛠️ Ferramentas utilizadas
+
+* Microsoft Excel
+* PROCX (XLOOKUP)
+* SOMASES
+* Tabelas estruturadas
+* Gráficos dinâmicos
+* Formatação condicional
 
 ---
 
-## 📈 Resultado
-O projeto gera um Resumo Fiscal anual, permitindo visualizar de forma clara:
-- a evolução dos rendimentos ao longo do ano  
-- o impacto do IR conforme o aumento da renda  
-- a alíquota efetiva aplicada no período  
+## 🗂️ Estrutura do projeto
+
+* **Titular** → dados cadastrais
+* **Informes** → informações complementares
+* **Lançamentos** → base de dados
+* **Tabela_IR** → faixas de tributação
+* **Resumo_Fiscal** → consolidação e visualização
+* **Lista** → apoio para validações
+
+---
+
+## 📈 Resultados e insights
+
+* Visualização da evolução dos rendimentos ao longo do período
+* Análise do impacto do IR conforme o aumento da renda
+* Identificação da alíquota efetiva aplicada
+* Organização clara das informações para tomada de decisão
 
 ---
 
 ## 🚀 Aprendizados
-- Aplicação prática de lógica fiscal em Excel  
-- Uso de funções avançadas aprendidas de forma autônoma  
-- Organização de dados separando base, resumo e visualização  
-- Construção de relatório claro e apresentável  
+
+* Aplicação de lógica fiscal em Excel
+* Uso de funções avançadas para automação de cálculos
+* Estruturação de dados para análise financeira
+* Desenvolvimento de relatórios claros e objetivos
 
 ---
 
-## 📷 Visão Geral do Projeto
+## 📷 Visão geral
 
 ### 🧾 Lançamentos
+
 ![Lançamentos](Imagens/Resumo_Fiscal.png)
 
 ### 📊 Resumo Fiscal
+
 ![Resumo Fiscal](Imagens/Lançamentos.png)
 
 ---
 
 ## 👩‍💻 Autora
-**Giseli Silva**  
-Área Administrativa | Dados | Excel  
+
+**Giseli Silva**
+Área Administrativa | Dados | Excel
 
 ---
 
 ## 📌 Observação
-Projeto desenvolvido com finalidade educacional, aplicando conceitos de Excel voltados à área administrativa e de análise de dados.  
 
-Curso realizado na **DIO (Digital Innovation One)**, sob orientação do instrutor **Felipe Aguiar**.
-
+Projeto com finalidade prática, aplicando conceitos de Excel voltados à organização financeira e análise de dados.
